@@ -21,7 +21,7 @@
 
 ### Пошаговый запуск
 
-**[Скачайте готовый JSON-шаблон](telegram_ai_assistant_template.md)**
+**👉[Скачайте готовый JSON-шаблон](telegram_ai_assistant_template.md)**
 
 1. **Импорт сценария:**
    - Откройте интерфейс n8n.
